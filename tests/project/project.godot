@@ -1,0 +1,9 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+config/name="HumGen3D import check"
+config/features=PackedStringArray("4.3")
+
+[editor_plugins]
+enabled=PackedStringArray("res://addons/humgen3d_companion/plugin.cfg")
